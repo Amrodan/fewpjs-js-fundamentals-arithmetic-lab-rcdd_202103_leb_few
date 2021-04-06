@@ -6,6 +6,6 @@
  var num3 = 21;
  var num4 = 17;
   var multiply = num1 * num2;
-  var random  = Math.floor() ;
+  var random  = Math.floor(0.6) ;
   var mod = num3 % num4;
   var max  = Math.max(1,2,3,4,5,20)
